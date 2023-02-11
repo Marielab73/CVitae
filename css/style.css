@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  .contenedor {
+  
+    display: flex;
+    justify-content:center;
+    text-align: left;
+    background-color: #2B2929;
+  
+  
+  }
+
+  .fondo {
+  
+    display: flex;
+    justify-content:center;
+    background-color: #3d3c3c6f;
+          
+  }
+
+  .fuentes {
+  
+    
+    justify-content:left;
+    font-style: italic;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+          
+  }
+
+  .contenedor1 {
+  
+    display: flex;
+    justify-content:center;
+    text-align: left;
+    width: 65%;
+    
+  
+  
+  }
